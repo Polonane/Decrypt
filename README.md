@@ -1,2 +1,2 @@
-# Decrypt
-Decrypt hc files
+python3
+pycryptodome
